@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋 I'm Bishwa Ranjan Das</h1>
+<h3 align="center">.NET Full Stack Developer | MCA Graduate 2024</h3>
+
 # Hi 👋 I'm Bishwa Ranjan Das
 
 🎓 MCA Graduate (2024)  
